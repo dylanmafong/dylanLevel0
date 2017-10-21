@@ -12,6 +12,7 @@ public class AreYouHappy {
 					
 			}
 		else {
+			
 			JOptionPane.showMessageDialog(null, "Keep doing what you are doing");
 		}
 	}
