@@ -8,7 +8,7 @@ public class AreYouHappy {
 		} else {
 			int y = JOptionPane.showConfirmDialog(null, "Do you want to be happy?", "", JOptionPane.YES_NO_OPTION);
 			if (y == 0) {
-				JOptionPane.showMessageDialog(null, "Chnage something");
+				JOptionPane.showMessageDialog(null, "Change something");
 					
 			}
 		else {
